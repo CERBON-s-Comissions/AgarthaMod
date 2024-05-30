@@ -1,0 +1,25 @@
+{
+  "item.agartha.ruby": "Denarius",
+  "item.agartha.raw_ruby": "Aureus",
+  "item.agartha.dragon": "Dragon Badge",
+  "item.agartha.fairy": "Fairy Badge",
+  "item.agartha.dark": "Dark Badge",
+  "item.agartha.steel": "Steel Badge",
+  "item.agartha.ghost": "Ghost Badge",
+  "item.agartha.rock": "Rock Badge",
+  "item.agartha.bug": "Bug Badge",
+  "item.agartha.psychic": "Psychic Badge",
+  "item.agartha.flying": "Flying Badge",
+  "item.agartha.ground": "Ground Badge",
+  "item.agartha.poison": "Poison Badge",
+  "item.agartha.fighting": "Fighting Badge",
+  "item.agartha.ice": "Ice Badge",
+  "item.agartha.electric": "Electric Badge",
+  "item.agartha.grass": "Grass Badge",
+  "item.agartha.water": "Water Badge",
+  "item.agartha.fire": "Fire Badge",
+  "item.agartha.normal": "Normal Badge",
+
+
+  "itemgroup.ruby": "Agartha Mod"
+}
